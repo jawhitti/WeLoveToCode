@@ -4,4 +4,6 @@ This repo holds code generated duing "We Love To Code" 2/10/2017
 ## jsfiddle
 Click these links to visit the javascript fiddles we wrote together 
 during presentations
-[FirstHour](https://jsfiddle.net/jawhitti/L8n2xq0m/1/)
+
+* [FirstHour](https://jsfiddle.net/jawhitti/L8n2xq0m/1/)
+* [Second Hour](https://jsfiddle.net/jawhitti/gnymLkuy/)
