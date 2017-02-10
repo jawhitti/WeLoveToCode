@@ -13,4 +13,4 @@ during presentations
 * [Seventh Hour](https://jsfiddle.net/jawhitti/1ego8udd/)
 
 ## Amazon Echo (Alexa) programming
-See the [Alexa Skills](https://github.com/jawhitti/alexa-skills) repo for skills demonstrated in the talks today.
+See the [alexa-skills](https://github.com/jawhitti/alexa-skills) repo for skills demonstrated in the talks today.
